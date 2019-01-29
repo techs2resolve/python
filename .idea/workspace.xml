@@ -163,6 +163,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -218,6 +221,7 @@
     <option name="width" value="1600" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -421,21 +425,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1600" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21791613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990403" visible="true" weight="0.42558748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49809402" weight="0.42558748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39779875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32637075" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.45632333" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009597" side_tool="true" weight="0.6289308" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.45561358" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501906" side_tool="true" weight="0.42558748" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.6253264" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
