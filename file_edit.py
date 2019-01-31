@@ -9,7 +9,7 @@ print("Updating the system")
 update = "sudo apt-get update -y && sudo apt-get upgrade -y"
 os.system(update)
 
-#log = open("/Users/sarfaraz/linux-skills.txt", "w")
-#log.write("192.168.15.150 db-manager")
-#view = "cat /Users/sarfaraz/linux-skills.txt "
-#print(os.system(view))
+log = open("/Users/sarfaraz/linux-skills.txt", "w")
+log.write("192.168.15.150 db-manager")
+view = "cat /Users/sarfaraz/linux-skills.txt "
+print(os.system(viewm))

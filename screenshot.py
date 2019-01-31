@@ -9,9 +9,9 @@ while True:
     screenshot = pyautogui.screenshot(now+'.png')
     time.sleep(60)
 
-# for file in os.listdir():
-#     if fnmatch.fnmatch(file, '*.png'):
-#         print(file)
+for file in os.listdir():
+     if fnmatch.fnmatch(file, '*.png'):
+         print(file)
 
 
 
