@@ -31,7 +31,7 @@ for file in os.listdir():
 
 
 # sudo apt-get install python3-xlib -y
-# sudo apt-get install python-dev libffi-dev libssl-dev libxml2-dev libxslt1-dev -y
+# sudo apt-get install python3-dev python3-pip -y
 # sudo apt-get install scrot -y
 # export LC_CTYPE=en_US.UTF-8
 # sudo python3 -m pip install pyautogui
